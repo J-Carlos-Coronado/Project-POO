@@ -1,3 +1,8 @@
+// @author: Jose Carlos Coronado Chable (Documentador)
+// @author:Alejandro Espinoza  (Coder)
+//@version: 24/05/2022
+// Este apartado define que resoluciones soporta nuestro apartado de television 
+
 Resolucion1K
 Resolucion4K
 ResolucionHD
