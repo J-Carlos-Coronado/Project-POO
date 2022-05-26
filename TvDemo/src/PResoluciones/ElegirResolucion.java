@@ -1,6 +1,5 @@
 package PResoluciones;
 // @author: Jose Carlos Coronado Chable (Documentador)
-// @author:Alex Reyes (Coder)
 // @author:Alejandro Espinoza  (Coder)
 //@version: 24/05/2022
 //Las librerías Java nos permiten reutilizar código, es decir,podemos hacer uso de las clases, métodos y atributos que componen la
